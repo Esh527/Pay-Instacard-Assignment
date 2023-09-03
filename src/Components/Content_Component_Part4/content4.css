@@ -1,0 +1,75 @@
+.content4-container1{
+    display: flex;
+    justify-content: space-between;
+}
+
+.ul{
+    
+    width: 248px;
+height: 150px;
+font-family: Inter;
+font-size: 16px;
+font-weight: 400;
+line-height: 30px;
+letter-spacing: 0em;
+text-align: left;
+
+
+}
+
+.paragraph{
+    color: black;
+    font-family: Inter;
+    font-size: 20px;
+    font-weight: 500;
+    line-height: 24px;
+    letter-spacing: 0em;
+    text-align: left;
+    
+}
+
+.spam-head{
+font-family: Inter;
+font-size: 30px;
+font-weight: 400;
+line-height: 36px;
+letter-spacing: 0em;
+text-align: left;
+
+
+
+}
+.head{
+font-family: Inter;
+font-size: 40px;
+font-weight: 600;
+line-height: 48px;
+letter-spacing: 0em;
+text-align: left;
+}
+
+.image2{
+   height: 500px;
+}
+.content4-container-img{
+    display: flex;
+    flex-direction: column;
+    justify-content: start;
+    align-items: start;
+}
+.button{
+    background-color: rgba(242, 122, 68, 1);
+    width: Hug (180px);
+height: Hug (51px);
+padding: 16px 40px 16px 40px;
+border-radius: 30px;
+gap: 5px;
+border: none;
+
+}
+.image3{
+    display: flex;
+    flex-direction: column;
+    justify-content: end;
+    align-items: end;
+}

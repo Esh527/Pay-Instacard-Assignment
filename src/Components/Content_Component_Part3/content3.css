@@ -1,0 +1,17 @@
+
+.img-card-container{
+    height:50vh;
+    width: 50vh;
+    
+}
+.card1{
+    
+    padding: 10px
+}
+
+.card1-image1, .card1-image2, .card1-image3, .card1-image4, .card1-image5{
+    height: 40vh;
+    width: 35vh;
+    padding: 10px;
+    margin: 10px;
+}

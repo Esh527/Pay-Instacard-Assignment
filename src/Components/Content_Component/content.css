@@ -1,0 +1,23 @@
+.ellipse{
+    position: absolute;
+    width: 128px;
+    height: 128px;
+    left: 266px;
+    top: 238px;
+    background-image: url("https://res.cloudinary.com/draisdub8/image/upload/v1693665177/Payinstacardassignment/Ellipse_46_d1h40u.jpg");
+    
+    
+}
+.img-container{
+    height: 100px;
+    align-items: center;
+}
+
+.content-container{
+    display: flex;
+    flex-direction: column;
+}
+.p{
+    color: rgba(80, 92, 89, 1);
+    
+}

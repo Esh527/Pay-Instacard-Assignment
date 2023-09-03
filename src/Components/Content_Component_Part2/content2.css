@@ -1,0 +1,41 @@
+.container{
+   
+   background-color: antiquewhite;
+   
+}
+
+.one-container, .two-container, .three-container{
+    display: flex;
+    flex-direction: row;
+    justify-content: start;
+    align-items: center;
+    width: 390px;
+    border-radius: 10px 10px 10px 10px;
+    box-shadow: 0 3px 10px rgb(0 0 0 / 0.2);
+    margin: 10px;
+    padding: 10px;
+
+}
+
+.heading{
+    
+    font-family: Roboto;
+font-size: 18px;
+font-weight: 600;
+margin: 10px;
+letter-spacing: 0.5px;
+text-align: left;
+    
+
+}
+.paragraph{
+  
+    margin: 10px;
+font-family: Roboto;
+font-size: 15px;
+font-weight: 400;
+line-height: 23px;
+letter-spacing: 0.5px;
+text-align: left;
+
+}

@@ -1,0 +1,45 @@
+.testimonials-head{
+    font-family: Inter;
+font-size: 40px;
+font-weight: 500;
+line-height: 48px;
+letter-spacing: 0em;
+text-align: center;
+
+}
+
+.testimonials-content{
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+
+}
+
+.testimonials-content1-img, .testimonials-content2-img, .testimonials-content3-img{
+    width: 100px;
+height: 100px;
+background-color: bisque;
+color: bisque;
+
+}
+
+.testimonials-content1-head, .testimonials-content2-head, .testimonials-content3-head{
+ 
+font-family: Inter;
+font-size: 16px;
+font-weight: 400;
+line-height: 22px;
+letter-spacing: 0em;
+text-align: center;
+
+}
+
+.testimonials-content1-para, .testimonials-content2-para, .testimonials-content3-para{
+font-family: Inter;
+font-size: 16px;
+font-weight: 400;
+line-height: 22px;
+letter-spacing: 0em;
+text-align: center;
+
+}

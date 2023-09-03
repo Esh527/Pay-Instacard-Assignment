@@ -1,0 +1,75 @@
+
+
+.header-link1{
+    display: flex;
+    flex-direction: row;
+    
+    align-items: center;
+    justify-content: space-evenly;
+    margin: 10px;
+}
+.header-link2{
+    display: flex;
+    
+    
+    
+    
+}
+.header-legal{
+    padding: 5px;
+    color:  rgba(45, 46, 46, 1);
+    font-family: inherit;
+    font-size: 16px;
+    font-weight: 400;
+    line-height: 19px;
+    letter-spacing: 0em;
+    text-align: left;
+}
+
+.header-Offers, .header-Courses{
+    font-weight: bold;
+    margin: 5px;
+    
+font-family: Inter;
+font-size: 16px;
+font-weight: 600;
+line-height: 19px;
+letter-spacing: 0em;
+text-align: left;
+
+}
+
+.header-Courses{
+    text-align: center;
+    width: 63px;
+height: 19px;
+font-size: 14px;
+    border-radius: 10px 10px 10px 10px;
+    background: rgba(242, 122, 68, 1);
+
+    color: rgba(255, 255, 255, 1);
+    font-family: Inter;
+
+font-weight: 400;
+line-height: 19px;
+letter-spacing: 0em;
+
+
+}
+
+.header-Offers{
+    color : rgba(125, 125, 125, 1);
+
+}
+
+.header-legal{
+    width: 46px;
+height: 19px;
+font-family: Inter;
+font-size: 16px;
+font-weight: 500;
+line-height: 19px;
+letter-spacing: 0em;
+text-align: left;
+
+}
